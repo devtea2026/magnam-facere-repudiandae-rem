@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/magnam-facere-repudiandae-rem",
-  "version": "4.6.42",
+  "version": "4.6.43",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -824,5 +824,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/magnam-facere-repudiandae-rem/issues"
   },
-  "packageManager": "yarn@4.3.0"
+  "packageManager": "yarn@4.3.1"
 }
